@@ -21,6 +21,13 @@
     "repo": "argenos/nldates-obsidian"
   },
   {
+    "id": "obsidian-multisync",
+    "name": "MultiSync",
+    "author": "Livan Kumar",
+    "description": "Sync your vault across all devices using your own GitHub account. Free forever.",
+    "repo": "livan116/obsidian-multisync"
+  },
+  {
     "id": "obsidian-git",
     "name": "Git",
     "author": "Vinzent",
